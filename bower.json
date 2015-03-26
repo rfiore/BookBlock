@@ -1,11 +1,15 @@
 {
-  "name": "BookBlock",
-  "version": "2.0.2",
+  "name": "BookBlock-rfiore",
+  "homepage": "https://github.com/rfiore/BookBlock.git",
+  "version": "1.0.0",
   "description": "A jQuery plugin that will create a booklet-like component that let's you navigate through its items by flipping the pages.",
   "license": "http://tympanus.net/codrops/licensing/",
   "main": [
     "./css/bookblock.css",
     "./jquery.bookblock.js"
   ],
-  "dependencies": {}
+  "_source": "git://github.com/rfiore/BookBlock.git",
+  "_target": "*",
+  "_originalSource": "BookBlock",
+  "_direct": true
 }
