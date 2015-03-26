@@ -11,5 +11,9 @@
   "_source": "git://github.com/rfiore/BookBlock.git",
   "_target": "*",
   "_originalSource": "BookBlock",
-  "_direct": true
+  "_direct": true,
+  "dependencies": {
+    "BookBlock-rfiore": "https://github.com/rfiore/BookBlock.git"
+  },
+  "ignore": []
 }
